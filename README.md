@@ -48,7 +48,7 @@ These datasets enable a complete funnel view from acquisition to revenue and pro
 
 - Identified high-performing traffic channels
 
-Measured conversion efficiency across marketing sources
+- Measured conversion efficiency across marketing sources
 
 2. Customer Behaviour & Retention
 
